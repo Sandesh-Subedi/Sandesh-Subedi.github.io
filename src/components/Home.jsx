@@ -169,12 +169,11 @@
 // };
 
 // export default Home;
-
 import React from 'react';
 import myImage from '../assets/myImage.png';
 import { MdArrowRightAlt } from "react-icons/md";
 import { Link } from 'react-scroll';
-import { ReactTyped } from 'react-typed'; // Correct import
+import { ReactTyped } from 'react-typed'; // Corrected import
 
 const Home = () => {
   return (
@@ -186,9 +185,9 @@ const Home = () => {
           <h2 className='text-2xl sm:text-7xl font-bold text-white capitalize'>sandesh subedi</h2>
 
           <div className='text-white py-5 text-2xl'>
-            <span className='mr-2'>a</span> {/* Static white text */}
+            <span className='mr-2'>a</span>
             <ReactTyped
-              strings={["Software"]}
+              strings={["Software developer", "Tech enthusiast"]}
               typeSpeed={50}
               backSpeed={30}
               loop
@@ -199,7 +198,6 @@ const Home = () => {
             A dedicated individual with a strong foundation in computer science, mathematics, and hands-on experience across diverse technologies like Java, React, .NET, and machine learning.
           </h2>
 
-          {/* Portfolio Button */}
           <div>
             <Link
               to='portfolio'
@@ -216,7 +214,6 @@ const Home = () => {
           </div>
         </div>
 
-        {/* Profile Image */}
         <div className='mt-8 md:mt-0 md:w-1/2 md:ml-10'>
           <img
             src={myImage}
