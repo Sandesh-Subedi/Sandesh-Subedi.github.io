@@ -64,6 +64,11 @@ To deploy the portfolio React app, follow these steps:
 3. The build output will be generated in the `build` directory.
 
 4. Deploy the contents of the `build` directory to your desired hosting provider or platform.
+   
+5. If you're using the gh-pages package, deploy your build by running:
+    ```
+   npm run deploy
+   ```
 
 ## License
 
