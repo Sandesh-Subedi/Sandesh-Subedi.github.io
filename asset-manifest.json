@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.65134500.css",
-    "main.js": "/static/js/main.583b32ed.js",
+    "main.js": "/static/js/main.a1e98dc4.js",
     "static/media/myImage.png": "/static/media/myImage.c9bb84405f2c63598fa8.png",
     "static/media/FarMart.png": "/static/media/FarMart.dc0f50c0a3198f54677b.png",
     "static/media/graphql.png": "/static/media/graphql.fc6b9451733c620ceb86.png",
@@ -15,10 +15,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.65134500.css.map": "/static/css/main.65134500.css.map",
-    "main.583b32ed.js.map": "/static/js/main.583b32ed.js.map"
+    "main.a1e98dc4.js.map": "/static/js/main.a1e98dc4.js.map"
   },
   "entrypoints": [
     "static/css/main.65134500.css",
-    "static/js/main.583b32ed.js"
+    "static/js/main.a1e98dc4.js"
   ]
 }
