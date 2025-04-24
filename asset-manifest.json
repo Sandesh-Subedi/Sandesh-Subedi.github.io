@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.65134500.css",
-    "main.js": "/static/js/main.a1e98dc4.js",
+    "main.css": "/static/css/main.68eca160.css",
+    "main.js": "/static/js/main.fe014210.js",
     "static/media/myImage.png": "/static/media/myImage.c9bb84405f2c63598fa8.png",
     "static/media/FarMart.png": "/static/media/FarMart.dc0f50c0a3198f54677b.png",
+    "static/media/ckettle.png": "/static/media/ckettle.5469705254c34467eced.png",
     "static/media/graphql.png": "/static/media/graphql.fc6b9451733c620ceb86.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/TBF.jpg": "/static/media/TBF.99c9fcbc64e6bdaead17.jpg",
@@ -14,11 +15,11 @@
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.65134500.css.map": "/static/css/main.65134500.css.map",
-    "main.a1e98dc4.js.map": "/static/js/main.a1e98dc4.js.map"
+    "main.68eca160.css.map": "/static/css/main.68eca160.css.map",
+    "main.fe014210.js.map": "/static/js/main.fe014210.js.map"
   },
   "entrypoints": [
-    "static/css/main.65134500.css",
-    "static/js/main.a1e98dc4.js"
+    "static/css/main.68eca160.css",
+    "static/js/main.fe014210.js"
   ]
 }
