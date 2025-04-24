@@ -67,7 +67,7 @@ import React from 'react';
 import farMart from "../assets/portfolio/FarMart.png";
 import TBF from "../assets/portfolio/TBF.jpg";
 import calculator from "../assets/portfolio/calculator.jpg";
-import ckWebapp from "../assets/portfolio/ck.png";
+import ckWebapp from "../assets/portfolio/ckettle.png";
 
 const Portfolio = () => {
   const portfolios = [
